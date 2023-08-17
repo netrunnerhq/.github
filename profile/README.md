@@ -2,7 +2,7 @@
 <em>🛜🏃🦾 Turn your AWS account into a personalised Firebase with Netrunner 🛜🏃🦾</em>
 </p>
 <p align="center">
- <img src="./netrunner-main-character.png" height="130" width="130" alt="Netrunner Logo"/>
+ <img src="https://github.com/netrunnerhq/.github/blob/main/profile/netrunner-main-character.png" height="130" width="130" alt="Netrunner Logo"/>
 </p>
 <p align="center">
    <img alt="Node version" src="https://img.shields.io/static/v1?label=node&message=%20%3E=18&logo=node.js&color=2334D058" />
